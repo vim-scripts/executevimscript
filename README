@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2066
+
+This package allows you to:
+- Execute some selected vimscript lines
+- Create a vimscript sandbox where you can type & test vimscript fast
+
+This is a very rough version, with no checks. It currently works only on lines, but in later versions hopefully it will work with any selection, including rectangular selection.
+
+The goal of this package is to provide a Vim equivalent of Smalltalk&#039s \"do it\" and \"print it\".
+
